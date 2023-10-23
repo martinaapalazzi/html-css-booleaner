@@ -1,3 +1,21 @@
-#img {
-    
+header {
+    background-color: lightskyblue; width: 100%; height: 100%;
+    background-size: 250px;
+    background-image: url(img/pattern.png);
+   
 }
+
+.logo {
+    width: 200px;
+}
+
+#pattern { 
+    repeat: repeat
+}
+
+.autor {
+    color: grey;
+}
+
+
+
