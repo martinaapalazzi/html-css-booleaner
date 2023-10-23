@@ -37,8 +37,11 @@ h4 {
     color: rgb(135, 135, 135);
 }
 
-img {
-    width: 200px;
+#primafoto { 
+    background-image: url(img/monitor.jpg); size: 200px;
+    color: white;
 }
-
-
+#secondafoto {
+    background-image: url(img/graph.jpg);
+    color: white;
+}
