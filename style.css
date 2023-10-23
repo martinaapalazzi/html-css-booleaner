@@ -25,11 +25,20 @@ header {
 
 .secondariga {
     background-color: rgb(174, 220, 236);
+    width: 300px;
 }
 
 td { 
     width: 150px;
     height: 100px;
+}
+
+h4 {
+    color: rgb(135, 135, 135);
+}
+
+img {
+    width: 200px;
 }
 
 
