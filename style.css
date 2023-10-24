@@ -1,10 +1,70 @@
-header {
-    background-color: rgb(105, 195, 251); width: 100%; height: 100%;
-    background-size: 250px;
-    background-image: url(img/pattern.png);
-   
+/* GENERAL */
+
+.grey-color-text {
+    color: rgb(131, 131, 131);
 }
 
+.zero-margin {
+    margin: 0;
+    padding: 0;
+}
+
+
+/* MAIN */
+
+#main-header {
+    background-color: rgb(105, 195, 251); width: 100%; height: 100%;
+    background-image: url('img/pattern.png'); 
+}
+
+#logo {
+    height: 60px;
+    
+}
+.main-table-thead{
+    color: white;
+    background-color: rgb(22, 166, 255);
+    text-align: left;
+}
+
+.blue-table-row{
+    background-color: rgb(145, 213, 255);
+}
+#collapse-border{
+    border-collapse: collapse;
+}
+
+.width-50-cell {
+    width: 50%;
+}
+
+#primafoto { 
+    background-image: url(img/monitor.jpg); size: 200px;
+    color: white;
+}
+#secondafoto {
+    background-image: url(img/graph.jpg);
+    color: white;
+}
+
+.article-container {
+    height: 200px;
+    width: 300px;
+    background-size: cover;
+    background-position: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* 
 .logo {
     width: 200px;
 }
@@ -45,3 +105,6 @@ h4 {
     background-image: url(img/graph.jpg);
     color: white;
 }
+
+*/
+
